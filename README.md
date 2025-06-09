@@ -1,7 +1,7 @@
 # pgc-conformations
 AlphaFold2-generated conformations of PGC-1α N-terminal fragment (2-220)
 
-Structures generated with AlphaFold2 running colabfold v1.5.5 locally. 
+Structures generated with AlphaFold2 running colabfold v1.5.5 locally ([localcolabfold](https://github.com/YoshitakaMo/localcolabfold)). 
 
 ### Commands 
 
